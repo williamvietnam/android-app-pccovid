@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/drawable/bg_info_user.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/drawable/bg_login.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/drawable/bg_splash.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_login.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_login_local.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_login_remote.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_register_local.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_register_remote.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Clone-PC-Covid/app/src/main/res/layout/fragment_login.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_circle_green.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_frag_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_green_info_report.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_img_menu_white.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_info_user.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_info_vaccine.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_item_check_in_history.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/bg_login.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/ic_next.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/drawable/ic_qr_code_scanner.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/activity_login.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/dialog_notify_report.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_about_pccovid.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_checkin_history.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_data_covid19.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_login.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_login_local.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_login_remote.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_medical_declaration.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_menu.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_notify.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_qr_code_scanner.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_qr_management.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_register.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_register_local.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_register_remote.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_report.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_report_detail.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_settings.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_test_data.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/fragment_user_guide.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/item_check_in_history.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/PCCovidClone/app/src/main/res/layout/item_notify.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
